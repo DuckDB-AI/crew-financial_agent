@@ -11,9 +11,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
-crewai = "^0.41.1"
-crewai_tools = ">=0.4.6,<0.5.0"
-pandas = ">=2.2.3"
+crewai = "^0.100.0"
+crewai_tools = "^0.33.0"
 pydantic = "*"
 sec_api = "*"
 embedchain = ">=0.1.113,<0.2.0"
